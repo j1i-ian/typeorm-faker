@@ -1,4 +1,6 @@
 {
+  "name": "@typeorm-faker",
+  "version": "0.0.1",
   "dependencies": {
     "@faker-js/faker": "^6.1.1",
     "@types/chai": "^4.3.0",
